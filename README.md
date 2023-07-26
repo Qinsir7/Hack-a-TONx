@@ -2,6 +2,9 @@
 
 Hack-a-TONx 2023
 
+- Demo: TODO
+- WebSite : https://gaslockr-website.vercel.app
+
 # GasLockR
 
 Welcome to GasLockR - our MVP submission for the Hack-a-TONx 2023. This project builds upon our legacy product, but with enhancements and additions that provide a robust, user-friendly solution for the blockchain community.
