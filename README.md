@@ -2,7 +2,6 @@
 
 Hack-a-TONx 2023
 
-- Demo: TODO
 - WebSite : https://gaslockr-website.vercel.app
 
 # GasLockR
