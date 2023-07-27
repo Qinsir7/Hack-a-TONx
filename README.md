@@ -7,7 +7,7 @@ Hack-a-TONx 2023
 
 # GasLockR
 
-Welcome to GasLockR - our MVP submission for the Hack-a-TONx 2023. This project builds upon our legacy product, but with enhancements and additions that provide a robust, user-friendly solution for the blockchain community.
+Welcome to GasLockR - our MVP submission for the Hack-a-TONx 2023. This project works as iteration of our GasLockR protocol, with enhancements for pricing model using multi-model algorithm that provide a robust, user-friendly gas payment solution for the blockchain community. We build the gas insurance website as the show case.
 
 ## 🌟 What's New?
 
@@ -34,6 +34,10 @@ Understanding the importance of user experience, we've rolled out an entirely ne
 ### Extended Network Support
 
 In our bid to be more inclusive and accessible, we've added support for multiple networks, both L1 and L2s. This ensures users across various blockchain platforms can benefit from our services without any hitches.
+
+### Amazing Pricing Model
+
+To make our GasFi sproducts more secure and practical, we have polished its core algorithmic model more precisely. See below for more details.
 
 ## 💡 Inspiration
 
